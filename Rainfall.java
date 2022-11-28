@@ -1,12 +1,8 @@
-package assignment1;
-
 /*
 Matriculation Number -  Name
  761318      : Bishal Karki
  */
 
-
-public class Rainfall {
 public class Rainfall {
 	//private initialization of weatherStation and descriptor arrays
 	private int[][] weatherStation;
@@ -113,5 +109,3 @@ public class Rainfall {
 	
 	}
 	
-    
-}

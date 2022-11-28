@@ -1,13 +1,13 @@
 # WeatherForecast-Assignment1
 
-Java program to whether forecast based on 2-D Arrays
+## Java program to whether forecast based on 2-D Arrays
 
 Problem Statements:
 Your client is a weather forecast that needs data to be prepared in specific ways. You are asked to engineer a
 class in java that prepares data on rainfall that has been received from different weather stations across the
 region. You need to adhere to certain specifications, so the data provided by your class can be successfully
 utilized.
-The following specifications have been agreed upon:
+## The following specifications have been agreed upon:
 The name of the class is Rainfall.
 It needs to store the data received from the weather stations. The data is provided in the following format:
 The rainfall data measured by the weather stations in the region is given as a two dimensional int array.
@@ -46,3 +46,5 @@ rainfall per station and day of the past n days.
 • Special case: If the average rainfall of the past n days was exactly 75, return ”thunderstorm”.
 Make sure that you only work with data that has been suﬀiciently prepared using the dataPreparation
 method!
+
+## I have attached the pdf file in this repository.
